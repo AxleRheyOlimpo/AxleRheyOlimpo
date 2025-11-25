@@ -1,5 +1,6 @@
 # Axle Rhey A. Olimpo
-## Hello there! I am Axle Rhey Olimpo, and I am a sophomore Information Technology (BSIT) Student.
+#### Hello there! I am Axle Rhey Olimpo, and I am a sophomore Information Technology (BSIT) Student.
+
 ### Education
   * Bachelor of Science in Information Technology - New Era University (2024-present)
 
